@@ -8,15 +8,25 @@ It allows you to create a dataset, generate facial embeddings, and recognize use
 ## 📁 Folder Structure
 
 dataset/
+
 ├── Thulasizwe/
-│ ├── 20251017_185806.jpg
+
+│ ├── 20251017_185806.jpg.
+
 │ ├── 20251017_185806(0).jpg
+
 │ ├── 20251017_185807.jpg
+
 │ └── 20251017_185808.jpg
+
 test/
+
 ├── image.png
+
 └── test.jpeg
+
 capture.py
+
 recognize.py
 reqN.py
 requirements.txt
@@ -92,4 +102,5 @@ Press q to exit webcam mode.
 🧾 Script Overview
 
 recognize.py	Detects both known and unknown users
+
 reqN.py	Detects known users only
