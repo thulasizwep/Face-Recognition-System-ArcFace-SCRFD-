@@ -36,6 +36,8 @@ requirements.txt
 
 <img width="904" height="332" alt="image" src="https://github.com/user-attachments/assets/d2a41008-5e9d-4f87-94cf-31dd382b36bf" />
 
+<img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/738f4989-36de-47b1-955c-ff5b015e074b" />
+
 for script.py is allows you to integrate multiple cameras(multi-threading),Each camera runs in its own separate thread &Prevents blocking - if one camera freezes, others continue
 
 
@@ -113,6 +115,7 @@ python script.py --multicam
 recognize.py	Detects both known and unknown users
 
 reqN.py	Detects known users only
+
 
 
 
