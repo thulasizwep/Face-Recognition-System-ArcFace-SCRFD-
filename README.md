@@ -12,6 +12,7 @@ dataset/
 ├── Thulasizwe/
 
 ├── 20251017_185806.jpg. 
+
  ├── 20251017_185806(0).jpg
 
 │ ├── 20251017_185807.jpg
@@ -112,6 +113,7 @@ python script.py --multicam
 recognize.py	Detects both known and unknown users
 
 reqN.py	Detects known users only
+
 
 
 
