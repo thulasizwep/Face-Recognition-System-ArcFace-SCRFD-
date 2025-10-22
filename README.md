@@ -105,12 +105,15 @@ python reqN.py --webcam
 Press q to exit webcam mode.
 
 
+Multiply cameras:
+python script.py --multicam
 
 🧾 Script Overview
 
 recognize.py	Detects both known and unknown users
 
 reqN.py	Detects known users only
+
 
 
 
