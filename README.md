@@ -28,7 +28,9 @@ test/
 capture.py
 
 recognize.py
+
 reqN.py
+
 requirements.txt
 
 
@@ -104,3 +106,4 @@ Press q to exit webcam mode.
 recognize.py	Detects both known and unknown users
 
 reqN.py	Detects known users only
+
