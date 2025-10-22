@@ -10,13 +10,18 @@ It allows you to create a dataset, generate facial embeddings, and recognize use
 dataset/
 
 ├── Thulasizwe/
+
 │ ├── 20251017_185806.jpg.
+
 │ ├── 20251017_185806(0).jpg
+
 │ ├── 20251017_185807.jpg
+
 │ └── 20251017_185808.jpg
 
 test/
 ├── image.png
+
 └── test.jpeg
 
 capture.py
@@ -28,6 +33,10 @@ reqN.py
 Script.py
 
 requirements.txt
+
+<img width="904" height="332" alt="image" src="https://github.com/user-attachments/assets/d2a41008-5e9d-4f87-94cf-31dd382b36bf" />
+
+for script.py is allows you to integrate multiple cameras(multi-threading),Each camera runs in its own separate thread &Prevents blocking - if one camera freezes, others continue
 
 
 > 💡 **Tip:** Take at least **15 photos per user** for reliable recognition.  
@@ -104,8 +113,5 @@ recognize.py	Detects both known and unknown users
 reqN.py	Detects known users only
 
 
-<img width="904" height="332" alt="image" src="https://github.com/user-attachments/assets/c3979947-51d7-44de-bc6f-99233ae048b8" />
-
-for script.py is allows you to integrate multiple cameras(multi-threading),Each camera runs in its own separate thread &Prevents blocking - if one camera freezes, others continue
 
 
